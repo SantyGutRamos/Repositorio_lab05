@@ -1,0 +1,20 @@
+.oculto {
+  display: none;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background: #eee;
+}
+
+nav li {
+  padding: 8px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+
